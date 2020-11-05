@@ -1,0 +1,114 @@
+[
+    {
+        "photos": [
+            "../image/photo1.jpg",
+            "../image/photo2.jpg",
+            "../image/photo3.jpg"
+        ],
+        "recipeSteps": [
+            "Etape 1 : détail de l'étape",
+            "Etape 2 : détail de l'étape",
+            "Etape 3 : détail de l'étape"
+        ],
+        "title": "Tomate Mozza",
+        "dishType": "Entree",
+        "video": "../videos/video1.jpg",
+        "preparationTime": 5,
+        "difficultyLevel": 1,
+        "ingredients": [
+            {
+                "_id": "Tomate",
+                "quantity": 10,
+                "isMandatory": true
+            },
+            {
+                "_id": "Mozzarella",
+                "quantity": 1,
+                "isMandatory": true
+            },
+            {
+                "_id": "Basilic",
+                "quantity": 10,
+                "isMandatory": false
+            }
+        ]
+    },
+    {
+        "photos": [
+            "../image/photo4.jpg",
+            "../image/photo5.jpg",
+            "../image/photo6.jpg"
+        ],
+        "recipeSteps": [
+            "Etape 1 : détail de l'étape",
+            "Etape 2 : détail de l'étape",
+            "Etape 3 : détail de l'étape"
+        ],
+        "title": "Spaghetti bolognaise",
+        "dishType": "Plat",
+        "video": "../videos/video2.jpg",
+        "preparationTime": 30,
+        "difficultyLevel": 3,
+        "ingredients": [
+            {
+                "_id": "Tomate",
+                "quantity": 5,
+                "isMandatory": true
+            },
+            {
+                "_id": "Spaghetti",
+                "quantity": 2,
+                "isMandatory": true
+            },
+            {
+                "_id": "Boeuf haché",
+                "quantity": 1,
+                "isMandatory": true
+            },
+            {
+                "_id": "Herbes de provence",
+                "quantity": 1,
+                "isMandatory": false
+            }
+        ]
+    },
+    {
+        "photos": [
+            "../image/photo7.jpg",
+            "../image/photo8.jpg",
+            "../image/photo9.jpg"
+        ],
+        "recipeSteps": [
+            "Etape 1 : détail de l'étape",
+            "Etape 2 : détail de l'étape",
+            "Etape 3 : détail de l'étape"
+        ],
+        "title": "Salade de fruits",
+        "dishType": "Dessert",
+        "video": "../videos/video3.jpg",
+        "preparationTime": 10,
+        "difficultyLevel": 2,
+        "ingredients": [
+            {
+                "_id": "Raisin",
+                "quantity": 15,
+                "isMandatory": true
+            },
+            {
+                "_id": "Banane",
+                "quantity": 1,
+                "isMandatory": true
+            },
+            {
+                "_id": "Orange",
+                "quantity": 2,
+                "isMandatory": true
+            },
+            {
+                "_id": "Ananas",
+                "quantity": 1,
+                "isMandatory": false
+            }
+        ]
+    }
+]
